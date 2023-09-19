@@ -4,7 +4,7 @@
 
 The goal of this project is to build a model using a pretrained bert sentance transformer model to extract relevant details from CVs in PDF format and match them against job descriptions from the Hugging Face dataset. The following outline provides a general guide for accomplishing this task.
 
-## PDF Data Extraction
+## Step 1: PDF Data Extraction
 
 Extract relevant details from CVs in PDF format.
 
